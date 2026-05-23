@@ -1,0 +1,6 @@
+{
+  "name": "Czech Rap Database",
+  "description": "Kompletní databáze českého rapu, hip-hopu a související scény. Profily interpretů, recenze alb, labely a historie žánrů.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
